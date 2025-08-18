@@ -4,3 +4,5 @@
 *.egg-info
 EPA_GHGI_2025/
 EPA_GHGI_DataExplorer/
+.ipynb_checkpoints
+**/ipynb_checkpoints/
